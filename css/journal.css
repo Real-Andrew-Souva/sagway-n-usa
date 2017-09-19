@@ -1,0 +1,31 @@
+body {
+    font-family: Verdana, Geneva, Arial, sans-serif;
+    font-size: small;
+}
+
+h1, h2 {
+    color: #c60;
+    border-bottom: thin dotted #888
+}
+
+h1 {
+    font-size: 220%;
+}
+
+h2 {
+    font-family: "Open Sans", Geneva, Arial, sans-serif;
+    font-size: 130%;
+    font-weight: normal;
+}
+
+p {
+    font-family: 'Roboto', Geneva, Arial, sans-serif;
+}
+
+blockquote {
+    font-style: italic;
+}
+
+#index_title {
+    font-family: Pacifico, Geneva, Arial, sans-serif;
+}

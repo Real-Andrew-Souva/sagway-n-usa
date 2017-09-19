@@ -1,3 +1,8 @@
+@font-face {
+    font-family: Airstream;
+    src: url("http://real-andrew-souva.github.io/sagway-n-usa/fonts/Airstream.ttf");
+}
+
 body {
     font-family: Verdana, Geneva, Arial, sans-serif;
     font-size: small;
@@ -13,7 +18,7 @@ h1 {
 }
 
 h2 {
-    font-family: "Open Sans", Geneva, Arial, sans-serif;
+    font-family: Airstream , Geneva, Arial, sans-serif;
     font-size: 130%;
     font-weight: normal;
 }
